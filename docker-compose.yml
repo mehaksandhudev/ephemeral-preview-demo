@@ -1,0 +1,5 @@
+services:
+  web:
+    image: nginxdemos/hello:plain-text
+    ports:
+      - " 80\
