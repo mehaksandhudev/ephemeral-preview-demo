@@ -1,5 +1,8 @@
 # Ephemeral Preview Demo Application
 
+> **Official SaaS Platform:** [**https://ephemeral.peaklabs.in**](https://ephemeral.peaklabs.in)  
+> [← Main Ephemeral Repository](../README.md) • [System Architecture](../ARCHITECTURE.md) • [API Specification](../API_SPEC.md)
+
 A complete, self-contained reference project demonstrating how Ephemeral automatically builds, previews, and tests multi-tier Docker Compose stacks on GitHub Pull Requests.
 
 ---
